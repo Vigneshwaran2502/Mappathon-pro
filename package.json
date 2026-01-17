@@ -14,10 +14,10 @@
     "leaflet": "1.9.4",
     "react-leaflet": "4.2.1",
     "express": "^5.2.1",
-    "path": "^0.12.7",
-    "url": "^0.11.4",
+    "cors": "^2.8.5",
     "fs": "^0.0.1-security",
-    "cors": "^2.8.5"
+    "path": "^0.12.7",
+    "url": "^0.11.4"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
